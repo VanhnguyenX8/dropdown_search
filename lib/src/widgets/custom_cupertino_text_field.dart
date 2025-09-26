@@ -79,7 +79,6 @@ class CustomCupertinoTextFields extends StatelessWidget {
       prefixMode: props.prefixMode,
       suffix: props.suffix,
       suffixMode: props.suffixMode,
-      selectAllOnFocus: props.selectAllOnFocus,
     );
   }
 }
